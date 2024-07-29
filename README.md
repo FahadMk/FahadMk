@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FahadMk
 - 👀 I’m interested in Android and iOS development
-- 🌱 I’m currently learning Android
-- 📫 How to reach me ...
+- 🌱 I’m currently working on Reactjs
+- 📫 How to reach me ... fahadkoya@hotmail.com
 
 <!---
 FahadMk/FahadMk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
