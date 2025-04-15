@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @FahadMk
 - 👀 I’m interested in Android and iOS development
+- I have worked on android - java, android - kotlin , android - Xamarin, ios - swift, Flutter.
 - 🌱 I’m currently working on Reactjs
 - 📫 How to reach me ... fahadkoya@hotmail.com
 
